@@ -1,0 +1,17 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+
+h1 {
+    text-align: center;
+}
+
+.movie {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
